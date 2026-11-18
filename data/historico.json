@@ -1,427 +1,230 @@
 [
   {
-    "id": 1,
-    "categoria": "Trabalho",
-    "titulo": "Ativar a Carteira de Trabalho Digital",
-    "palavras_chave": [
-      "carteira de trabalho",
-      "carteira digital",
-      "ctps",
-      "ctps digital",
-      "carteira azul",
-      "primeiro emprego"
-    ],
-    "resposta": "A Carteira de Trabalho Digital (CTPS) já existe para quem tem CPF. Você só precisa ativar, sem custo:\n  1) Baixe o app Carteira de Trabalho Digital ou entre no site gov.br.\n  2) Entre com a sua conta gov.br (pode criar na hora).\n  3) Pronto: o número da carteira é o seu CPF.",
-    "documentos": [
-      "CPF",
-      "Conta gov.br (pode ser criada na hora)"
-    ],
-    "onde": "App Carteira de Trabalho Digital (Android e iOS) ou site gov.br",
-    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 01:50:37",
+    "origem": "pergunta",
+    "pergunta": "como funciona as ferias e o decimo terceiro de jovem aprendiz",
+    "id_orientacao": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 18.7,
+    "nota_facilidade": "",
+    "perguntas_falhas": []
   },
   {
-    "id": 2,
-    "categoria": "Documentos",
-    "titulo": "Fazer o CPF (primeira inscrição)",
-    "palavras_chave": [
-      "cpf",
-      "tirar cpf",
-      "fazer cpf",
-      "tirar o cpf",
-      "fazer o cpf",
-      "inscricao no cpf",
-      "primeiro cpf",
-      "cadastro de pessoa fisica"
-    ],
-    "resposta": "A inscrição no CPF é gratuita pelo site gov.br ou na Receita Federal. Passo a passo:\n  1) Acesse o serviço Inscrever no CPF no gov.br e preencha o formulário.\n  2) Se o formulário gerar um protocolo, leve o protocolo e os documentos a uma unidade da Receita Federal.\n  Em unidades conveniadas pode haver taxa de R$ 7,00.",
-    "documentos": [
-      "Documento de identificação com foto",
-      "Protocolo do atendimento (se o formulário online gerar um)"
-    ],
-    "onde": "Site gov.br (serviço Inscrever no CPF) ou unidade da Receita Federal",
-    "fonte": "https://gov.br/pt-br/servicos/inscrever-no-cpf",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 01:51:06",
+    "origem": "pergunta",
+    "pergunta": "tenho 16 anos e estudo de manha posso trabalhar 6 horas por dia como aprendiz",
+    "id_orientacao": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_segundos": 15.0,
+    "nota_facilidade": "",
+    "perguntas_falhas": [
+      "baixei o app do governo mas minha conta ta bronze como muda pra prata"
+    ]
   },
   {
-    "id": 3,
-    "categoria": "Documentos",
-    "titulo": "Criar a conta gov.br e entender os níveis",
-    "palavras_chave": [
-      "gov br",
-      "conta gov",
-      "senha gov",
-      "nivel prata",
-      "nivel ouro",
-      "nivel bronze",
-      "govbr"
-    ],
-    "resposta": "A conta gov.br é gratuita e dá acesso a vários serviços do governo. Ela tem 3 níveis: bronze, prata e ouro. Quanto mais validações de identidade (como o reconhecimento facial), maior o nível. Alguns serviços exigem nível prata ou ouro.",
-    "documentos": [
-      "CPF",
-      "Câmera do celular (para o reconhecimento facial, ao subir de nível)"
-    ],
-    "onde": "App gov.br ou site gov.br",
-    "fonte": "https://www.gov.br/governodigital/pt-br/conta-gov-br/saiba-mais-sobre-os-niveis-da-conta-govbr/saiba-mais-sobre-os-niveis-da-conta-govbr",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 01:54:10",
+    "origem": "pergunta",
+    "pergunta": "onde consulto meu numero do pis pelo celular",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 4,
+    "tempo_segundos": 74.2,
+    "nota_facilidade": "",
+    "perguntas_falhas": [
+      "fiz o titulo online mas nao consigo entrar no aplicativo no celular",
+      "a empresa pediu meu nis mas nunca tive carteira assinada",
+      "onde consulto meu numero do pis pelo celular"
+    ]
   },
   {
-    "id": 4,
-    "categoria": "Trabalho",
-    "titulo": "Descobrir o número do PIS/NIS",
-    "palavras_chave": [
-      "pis",
-      "nis",
-      "nit",
-      "pasep",
-      "numero do pis",
-      "numero do nis",
-      "pis pasep",
-      "meu pis",
-      "meu nis",
-      "consultar pis",
-      "nao tenho pis",
-      "nunca tive pis"
-    ],
-    "resposta": "PIS e NIS são o mesmo número (também chamado de NIT). PIS é Programa de Integração Social e NIS é Número de Identificação Social.\nSe este é o seu primeiro emprego com carteira assinada, é normal ainda não ter o número: a empresa faz o cadastro na admissão e ele passa a aparecer na Carteira de Trabalho Digital.\nSe você já trabalhou ou já tem cadastro, consulte:\n  1) Entre no Meu INSS com a conta gov.br.\n  2) Abra a opção Meu Cadastro.\nA Caixa também informa o número pelo telefone 0800 726 0207.",
-    "documentos": [
-      "CPF",
-      "Conta gov.br"
-    ],
-    "onde": "Site ou app Meu INSS (ou o RH da empresa, na primeira admissão)",
-    "fonte": "https://meu.inss.gov.br",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 01:54:30",
+    "origem": "pergunta",
+    "pergunta": "o patrao pode nao registrar minha clt nos primeiros 3 meses",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 11.4,
+    "nota_facilidade": "",
+    "perguntas_falhas": []
   },
   {
-    "id": 5,
-    "categoria": "Trabalho",
-    "titulo": "Programa Jovem Aprendiz",
-    "palavras_chave": [
-      "jovem aprendiz",
-      "aprendiz",
-      "menor aprendiz",
-      "aprendizagem",
-      "lei da aprendizagem"
-    ],
-    "resposta": "É um contrato de trabalho especial, por escrito e registrado na carteira desde o primeiro dia, para jovens de 14 a 24 anos que estudam ou já terminaram o ensino médio. Para pessoas com deficiência não há limite de idade.\nRegras principais:\n  - Dura no máximo 2 anos e combina trabalho na empresa com um curso de aprendizagem.\n  - Jornada: até 6 horas por dia para quem está até o 9º ano do fundamental e até 8 horas por dia para quem está no ensino médio.\n  - Não pode ter hora extra nem banco de horas.\n  - O salário não pode ser menor que o salário mínimo por hora.\n  - O FGTS do aprendiz é de 2% (veja a ficha de FGTS).\n  - Se o jovem parar de estudar, pode perder o contrato.",
-    "documentos": [
-      "Comprovante de matrícula ou de conclusão do ensino médio",
-      "Carteira de Trabalho (para o registro do contrato)"
-    ],
-    "onde": "Empresas que contratam aprendizes e entidades de aprendizagem qualificadas (como o Sistema S)",
-    "fonte": "https://www.trt4.jus.br/portais/trt4/jovem-aprendiz",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 01:54:54",
+    "origem": "pergunta",
+    "pergunta": "Digite: quanto podem descontar do meu salario de vale transporte e inss",
+    "id_orientacao": 15,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 22.1,
+    "nota_facilidade": "",
+    "perguntas_falhas": []
   },
   {
-    "id": 6,
-    "categoria": "Trabalho",
-    "titulo": "Direito ao registro em carteira (carteira assinada)",
-    "palavras_chave": [
-      "carteira assinada",
-      "assinar a carteira",
-      "assinou minha carteira",
-      "assinaram minha carteira",
-      "nao assinou",
-      "sem registro",
-      "registro em carteira",
-      "clt"
-    ],
-    "resposta": "Quem trabalha pela CLT tem direito ao registro na carteira desde o primeiro dia, com cargo, data de admissão e salário. O registro vale na carteira digital. O jovem aprendiz também deve ser registrado. Se o empregador não registrar, é possível procurar o Ministério do Trabalho e Emprego.",
-    "documentos": [
-      "CPF (é o número da Carteira de Trabalho Digital)"
-    ],
-    "onde": "Ministério do Trabalho e Emprego (canais de atendimento no gov.br)",
-    "fonte": "https://www.tst.jus.br/jornada-de-trabalho",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 01:55:06",
+    "origem": "pergunta",
+    "pergunta": "se eu pedir demissao antes de 1 ano eu perco o fgts e o decimo terceiro",
+    "id_orientacao": 18,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 10.0,
+    "nota_facilidade": "",
+    "perguntas_falhas": []
   },
   {
-    "id": 7,
-    "categoria": "Trabalho",
-    "titulo": "Férias: direito e regras básicas",
-    "palavras_chave": [
-      "ferias",
-      "tirar ferias",
-      "direito a ferias",
-      "dias de ferias",
-      "vender ferias",
-      "abono de ferias"
-    ],
-    "resposta": "Depois de 12 meses de trabalho, a pessoa com carteira assinada tem direito a 30 dias de férias, pagas com um terço a mais do salário. É possível vender até 10 dias das férias (abono pecuniário); nos outros 20 dias é obrigatório descansar. Se a empresa não conceder no prazo, o pagamento deve ser em dobro. As regras podem variar conforme o contrato, então confirme com o RH.",
-    "documentos": [
-      "Nenhum documento é exigido para solicitar. Guarde o contrato e os holerites."
-    ],
-    "onde": "Departamento de Recursos Humanos da empresa ou Ministério do Trabalho e Emprego",
-    "fonte": "https://www.tst.jus.br/ferias1",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 01:55:27",
+    "origem": "categoria",
+    "pergunta": "[Trabalho] Contrato de experiência (prazo e direitos)",
+    "id_orientacao": 17,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 9.4,
+    "nota_facilidade": "",
+    "perguntas_falhas": [
+      "[Trabalho] Contrato de experiência (prazo e direitos)"
+    ]
   },
   {
-    "id": 8,
-    "categoria": "Trabalho",
-    "titulo": "Décimo terceiro salário (13º)",
-    "palavras_chave": [
-      "13o salario",
-      "13 salario",
-      "decimo terceiro",
-      "decimo 3",
-      "gratificacao de natal",
-      "13o"
-    ],
-    "resposta": "É um salário extra pago a quem tem carteira assinada, em duas parcelas: a primeira até 30 de novembro e a segunda até 20 de dezembro. Quem trabalhou só parte do ano recebe o valor proporcional aos meses trabalhados.",
-    "documentos": [
-      "Nenhum documento é exigido. Guarde os holerites para conferir os valores."
-    ],
-    "onde": "Pago pelo empregador. Dúvidas: RH da empresa ou Ministério do Trabalho e Emprego",
-    "fonte": "https://www.tst.jus.br/13-salario",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 01:56:13",
+    "origem": "pergunta",
+    "pergunta": "como funciona jovem aprendiz e quanto ganha",
+    "id_orientacao": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 3.5,
+    "nota_facilidade": "",
+    "perguntas_falhas": []
   },
   {
-    "id": 9,
-    "categoria": "Trabalho",
-    "titulo": "FGTS (Fundo de Garantia)",
-    "palavras_chave": [
-      "fgts",
-      "fundo de garantia",
-      "deposito do fgts",
-      "saque fgts",
-      "fgts de aprendiz",
-      "fgts do aprendiz"
-    ],
-    "resposta": "O FGTS (Fundo de Garantia do Tempo de Serviço) é formado por depósitos que o empregador faz todo mês em uma conta em nome do trabalhador. Ele protege quem é demitido sem justa causa e forma uma reserva para a aposentadoria.\nO depósito é de 8% do salário para quem trabalha pela CLT e de 2% para o jovem aprendiz. Esse valor não é descontado do seu salário.\nVocê acompanha o saldo pelo aplicativo FGTS.",
-    "documentos": [
-      "CPF",
-      "Conta gov.br ou aplicativo FGTS para consultar o saldo"
-    ],
-    "onde": "Aplicativo FGTS (Caixa) ou Carteira de Trabalho Digital",
-    "fonte": "https://www.fgts.gov.br/Paginas/sobre-o-fgts/visao-geral.aspx",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 01:56:46",
+    "origem": "pergunta",
+    "pergunta": "fiz dezoito anos e preciso do certificado de reservista para trabalhar",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 12.1,
+    "nota_facilidade": "",
+    "perguntas_falhas": []
   },
   {
-    "id": 10,
-    "categoria": "Documentos",
-    "titulo": "Alistamento militar",
-    "palavras_chave": [
-      "alistamento militar",
-      "alistamento",
-      "servico militar",
-      "exercito",
-      "reservista",
-      "junta militar",
-      "alistar",
-      "me alistar"
-    ],
-    "resposta": "O alistamento é gratuito e obrigatório para homens no ano em que completam 18 anos, com prazo de 1º de janeiro a 30 de junho. Para mulheres é voluntário, no mesmo prazo. Quem perde o prazo pode ter multa e restrições, como dificuldade para tirar passaporte ou assumir cargo público.\nComo fazer:\n  1) Online: acesse o Alistamento Online com a conta gov.br.\n  2) Presencial: vá à Junta de Serviço Militar da sua cidade com os documentos.",
-    "documentos": [
-      "Conta gov.br e CPF (para o alistamento online)",
-      "Para o atendimento presencial: certidão de nascimento ou casamento, identidade ou Carteira de Trabalho e comprovante de residência"
-    ],
-    "onde": "Site Alistamento Online (alistamento.eb.mil.br) ou Junta de Serviço Militar da sua cidade",
-    "fonte": "https://alistamento.eb.mil.br",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 01:57:19",
+    "origem": "pergunta",
+    "pergunta": "nao consigo entrar no gov.br pede reconhecimento facial",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 13.6,
+    "nota_facilidade": "",
+    "perguntas_falhas": [
+      "nao consigo entrar no gov.br pede reconhecimento facial"
+    ]
   },
   {
-    "id": 11,
-    "categoria": "Eleições",
-    "titulo": "Tirar o primeiro título de eleitor",
-    "palavras_chave": [
-      "tirar titulo",
-      "tirar o titulo",
-      "tirar meu titulo",
-      "fazer titulo",
-      "primeiro titulo",
-      "titulo de eleitor",
-      "titulo eleitoral",
-      "alistamento eleitoral",
-      "titulo net",
-      "votar"
-    ],
-    "resposta": "O pedido é gratuito e pode ser feito no Título Net (Autoatendimento Eleitoral, no site do TSE) ou presencialmente no cartório eleitoral:\n  1) No Título Net, escolha seu estado e marque Não tenho em Título de eleitor.\n  2) Preencha os dados e anexe os documentos.\n  3) Na primeira vez, vá ao cartório eleitoral para a biometria, se for pedido.\nQuem tem 15 anos já pode pedir, mas só vota a partir dos 16. O voto é facultativo aos 16 e 17 anos e obrigatório a partir dos 18. Quem pede o primeiro título depois dos 19 anos pode ter de pagar multa; quem declara estado de pobreza fica isento.",
-    "documentos": [
-      "Documento oficial de identificação com foto (identidade, carteira de trabalho ou passaporte)",
-      "Comprovante de residência recente",
-      "Comprovante de quitação do serviço militar (só para homens que completam 19 anos no ano do pedido)"
-    ],
-    "onde": "Título Net (site do TSE) ou cartório eleitoral",
-    "fonte": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleitor-em-dia-certificado-de-quitacao-militar-para-tirar-o-titulo-e-obrigatorio-apenas-para-os-conscritos",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 02:02:54",
+    "origem": "pergunta",
+    "pergunta": "Comecei a trabalhar registrado no meio do ano. Tenho direito ao décimo terceiro mesmo sem completar 12 meses?",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 25.8,
+    "nota_facilidade": 5,
+    "perguntas_falhas": []
   },
   {
-    "id": 12,
-    "categoria": "Eleições",
-    "titulo": "Aplicativo e-Título",
-    "palavras_chave": [
-      "e titulo",
-      "etitulo",
-      "titulo digital",
-      "aplicativo do titulo",
-      "app do titulo",
-      "titulo no celular",
-      "baixar o e titulo"
-    ],
-    "resposta": "O e-Título é o aplicativo oficial e gratuito da Justiça Eleitoral. Ele mostra o título digital, a situação eleitoral e o local de votação, e permite consultar e pagar débitos e emitir certidões. Só funciona para quem já tem inscrição eleitoral regular ou suspensa; quem nunca tirou o título precisa pedir antes no Título Net.",
-    "documentos": [
-      "Dados pessoais para confirmar a identidade dentro do aplicativo"
-    ],
-    "onde": "App e-Título (Android e iOS)",
-    "fonte": "https://www.tse.jus.br/eleitor/servicos/aplicativo-e-titulo-1",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 02:04:01",
+    "origem": "pergunta",
+    "pergunta": "Sou homem e completo 18 anos este ano. Até quando preciso fazer meu alistamento militar?",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 64.5,
+    "nota_facilidade": 5,
+    "perguntas_falhas": []
   },
   {
-    "id": 13,
-    "categoria": "Eleições",
-    "titulo": "Regularizar o título de eleitor",
-    "palavras_chave": [
-      "regularizar",
-      "regularizar titulo",
-      "titulo cancelado",
-      "titulo irregular",
-      "titulo suspenso",
-      "situacao eleitoral",
-      "multa eleitoral",
-      "nao votei",
-      "justificar",
-      "cancelado",
-      "cancelaram meu titulo"
-    ],
-    "resposta": "Para ver sua situação, use o site do TSE ou o app e-Título. Quem está com débito por ausência não justificada pode consultar e pagar a multa pelo e-Título, por Pix, cartão ou boleto. Título cancelado se regulariza pelo Título Net. Perto das eleições o cadastro eleitoral fica fechado por um período.",
-    "documentos": [
-      "CPF ou número do título para consultar a situação",
-      "Documento de identificação com foto",
-      "Comprovante de pagamento da multa (se houver)"
-    ],
-    "onde": "Título Net (site do TSE), app e-Título ou cartório eleitoral",
-    "fonte": "https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 02:04:19",
+    "origem": "pergunta",
+    "pergunta": "Não votei na última eleição e também não justifiquei. Como descubro se tenho alguma multa?",
+    "id_orientacao": 13,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 7.3,
+    "nota_facilidade": 5,
+    "perguntas_falhas": []
   },
   {
-    "id": 14,
-    "categoria": "Eleições",
-    "titulo": "Recuperar a segunda via do título de eleitor",
-    "palavras_chave": [
-      "perdi",
-      "perdi meu titulo",
-      "perdi o titulo",
-      "segunda via",
-      "2 via",
-      "recuperar titulo"
-    ],
-    "resposta": "Se você está em dia com a Justiça Eleitoral, pode emitir a segunda via de graça pelo app e-Título ou pelo Autoatendimento Eleitoral do TSE. Se não estiver em dia, precisa regularizar a situação antes.",
-    "documentos": [
-      "Dados pessoais para confirmar a identidade no aplicativo"
-    ],
-    "onde": "App e-Título ou Autoatendimento Eleitoral (site do TSE)",
-    "fonte": "https://www.tse.jus.br/comunicacao/noticias/2025/Fevereiro/nao-sei-onde-esta-o-meu-titulo-eleitoral-como-faco-para-recupera-lo",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 02:04:49",
+    "origem": "pergunta",
+    "pergunta": "Consultei minha situação eleitoral e apareceu que meu título está cancelado. Como resolvo isso?",
+    "id_orientacao": 13,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 18.4,
+    "nota_facilidade": 5,
+    "perguntas_falhas": []
   },
   {
-    "id": 15,
-    "categoria": "Trabalho",
-    "titulo": "Vale-transporte (VT): pedir e descontos",
-    "palavras_chave": [
-      "vale transporte",
-      "vt",
-      "passagem de onibus",
-      "passe de onibus",
-      "pedir vale transporte",
-      "solicitar vale transporte"
-    ],
-    "resposta": "O vale-transporte (VT) ajuda a pagar o trajeto de casa para o trabalho e de volta. Quem tem carteira assinada pode pedir.\nComo pedir: na contratação, informe ao empregador o endereço da sua casa e os meios de transporte que você usa no trajeto.\nDesconto: o empregador pode descontar até 6% do seu salário básico. Se as passagens custarem mais que isso, a empresa paga a diferença.",
-    "documentos": [
-      "Declaração com o endereço da sua casa e os meios de transporte usados no trajeto"
-    ],
-    "onde": "RH ou departamento pessoal da empresa, na admissão",
-    "fonte": "https://www.trt4.jus.br/portais/trt4/vales-transporte-e-alimentacao",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 02:05:02",
+    "origem": "pergunta",
+    "pergunta": "Troquei de celular e não tenho mais acesso ao meu título digital. Como recupero o e-Título?",
+    "id_orientacao": 12,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 11.2,
+    "nota_facilidade": 5,
+    "perguntas_falhas": []
   },
   {
-    "id": 16,
-    "categoria": "Trabalho",
-    "titulo": "Holerite (contracheque) e descontos do salário",
-    "palavras_chave": [
-      "holerite",
-      "contracheque",
-      "contra cheque",
-      "demonstrativo de pagamento",
-      "recibo de pagamento",
-      "desconto do inss",
-      "inss no salario",
-      "descontos na folha"
-    ],
-    "resposta": "Holerite e contracheque são o mesmo documento: o recibo mensal de pagamento do salário, que mostra o que você recebeu e o que foi descontado. A CLT exige que o salário seja pago contra recibo. Peça ao RH da empresa, que pode entregar impresso ou digital.\nDescontos comuns: INSS (alíquota progressiva de 7,5% a 14%, conforme o salário), vale-transporte (até 6% do salário básico) e imposto de renda, quando o salário é alto o bastante. O FGTS não é descontado: o depósito é do empregador.\nVocê pode conferir suas contribuições no Meu INSS.",
-    "documentos": [
-      "Nenhum documento é exigido. Peça o recibo ao RH."
-    ],
-    "onde": "RH da empresa; Meu INSS para conferir as contribuições",
-    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 02:05:22",
+    "origem": "pergunta",
+    "pergunta": "O décimo terceiro é pago integralmente ou depende de quantos meses trabalhei na empresa?",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 5.3,
+    "nota_facilidade": 5,
+    "perguntas_falhas": []
   },
   {
-    "id": 17,
-    "categoria": "Trabalho",
-    "titulo": "Contrato de experiência (prazo e direitos)",
-    "palavras_chave": [
-      "contrato de experiencia",
-      "periodo de experiencia",
-      "90 dias",
-      "prorrogar contrato",
-      "prorrogacao"
-    ],
-    "resposta": "É um contrato por prazo determinado, feito por escrito, para a empresa avaliar o trabalhador. Dura no máximo 90 dias e pode ser prorrogado uma única vez dentro desse limite (por exemplo, 45 + 45 dias). Se passar de 90 dias ou for prorrogado mais de uma vez, vira contrato sem prazo.\nVocê tem os direitos básicos: registro na carteira, salário, FGTS, INSS, vale-transporte e férias e 13º proporcionais.\nNo fim do prazo, recebe saldo de salário, férias proporcionais com 1/3 e 13º proporcional, e pode sacar o FGTS (sem multa de 40% e sem aviso prévio). Se a empresa encerrar antes do fim, em geral deve pagar uma indenização de metade do que você receberia até o fim do contrato.",
-    "documentos": [
-      "Contrato de experiência por escrito (peça uma cópia)",
-      "Registro na Carteira de Trabalho Digital"
-    ],
-    "onde": "RH da empresa; dúvidas no Ministério do Trabalho e Emprego",
-    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 02:05:38",
+    "origem": "categoria",
+    "pergunta": "[Trabalho] Vale-transporte (VT): pedir e descontos",
+    "id_orientacao": 15,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 10.0,
+    "nota_facilidade": 5,
+    "perguntas_falhas": [
+      "[Trabalho] Vale-transporte (VT): pedir e descontos"
+    ]
   },
   {
-    "id": 18,
-    "categoria": "Trabalho",
-    "titulo": "Pedido de demissão e verbas da rescisão",
-    "palavras_chave": [
-      "pedir demissao",
-      "pedido de demissao",
-      "pedi demissao",
-      "rescisao",
-      "verbas rescisorias",
-      "aviso previo",
-      "demissao sem justa causa",
-      "fui demitido",
-      "seguro desemprego",
-      "demitido",
-      "demitiram",
-      "demissao",
-      "mandado embora"
-    ],
-    "resposta": "Se você pede demissão, recebe saldo de salário, 13º proporcional e férias (vencidas e proporcionais) com 1/3. Em geral é preciso cumprir o aviso prévio de 30 dias, ou o valor pode ser descontado das verbas. Você não saca o FGTS, não recebe a multa de 40% e não tem seguro-desemprego.\nSe a empresa demite sem justa causa, você recebe essas verbas, mais aviso prévio, saque do FGTS e multa de 40% sobre o saldo.\nSeguro-desemprego: na primeira vez, é preciso ter trabalhado 12 meses nos últimos 18. O pedido vai do 7º ao 120º dia depois da demissão, pelo gov.br ou pelo app Carteira de Trabalho Digital.",
-    "documentos": [
-      "Termo de rescisão entregue pela empresa",
-      "Carteira de Trabalho Digital",
-      "Documentos pedidos no serviço de seguro-desemprego (veja no gov.br)"
-    ],
-    "onde": "RH da empresa (rescisão); gov.br ou app Carteira de Trabalho Digital (seguro-desemprego)",
-    "fonte": "https://www.gov.br/trabalho-e-emprego",
-    "verificado_em": "2026-11-18"
-  },
-  {
-    "id": 19,
-    "categoria": "Documentos",
-    "titulo": "Conta-salário e portabilidade do salário",
-    "palavras_chave": [
-      "conta salario",
-      "portabilidade",
-      "portabilidade do salario",
-      "abrir conta no banco",
-      "receber salario",
-      "banco para receber salario"
-    ],
-    "resposta": "A conta-salário é aberta pelo empregador, em seu nome, só para receber o salário. Só a empresa deposita nela. Abrir e manter é gratuito na Caixa, por exemplo.\nVocê pode pedir a portabilidade: o salário passa a cair automaticamente em outra conta sua, de outro banco ou instituição de pagamento, sem tarifa.\nComo pedir: procure o banco ou app de destino e informe o banco, a agência e a conta onde o salário cai hoje e o CNPJ do empregador. Não precisa de autorização do empregador.",
-    "documentos": [
-      "CPF e documento de identificação (informados ao empregador na admissão)",
-      "Banco, agência e conta da conta-salário e CNPJ do empregador (para pedir a portabilidade)"
-    ],
-    "onde": "Banco escolhido pela empresa (conta-salário) e banco de destino (portabilidade)",
-    "fonte": "https://www.caixa.gov.br/voce/salario-na-caixa/paginas/default.aspx",
-    "verificado_em": "2026-11-18"
+    "data": "2026-11-18 02:05:45",
+    "origem": "categoria",
+    "pergunta": "[Trabalho] Pedido de demissão e verbas da rescisão",
+    "id_orientacao": 18,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 7.2,
+    "nota_facilidade": 5,
+    "perguntas_falhas": []
   }
 ]
