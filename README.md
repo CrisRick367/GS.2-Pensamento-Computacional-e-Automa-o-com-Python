@@ -131,8 +131,6 @@ Todas as orientações foram conferidas em fontes oficiais (data da conferência
 
 ## Resultado do teste com usuários
 
-> Preencher depois do teste com **pelo menos 3 pessoas de fora da equipe, somando 10 atendimentos ou mais**. Não registrar nomes nem dados dessas pessoas.
-
 | Indicador | Resultado |
 |-----------|-----------|
 | Pessoas testadas | 3 |
