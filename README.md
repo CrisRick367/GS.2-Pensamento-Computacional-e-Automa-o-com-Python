@@ -1,0 +1,1 @@
+# GS.2-Pensamento-Computacional-e-Automa-o-com-Python
