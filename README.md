@@ -133,8 +133,8 @@ Todas as orientações foram conferidas em fontes oficiais (data da conferência
 
 | Indicador | Resultado |
 |-----------|-----------|
-| Pessoas testadas | 3 |
-| Atendimentos | 10 |
+| Pessoas testadas | 4 |
+| Atendimentos | 18 |
 | Resposta encontrada (%) | 94.4 |
 | Taxa de acerto: ajudou (%) | 77.8 |
 | Tempo médio para encontrar | 15.6s |
