@@ -143,11 +143,8 @@ Todas as orientações foram conferidas em fontes oficiais (data da conferência
 
 **Dúvidas sem solução:**
   - fiz o titulo online mas nao consigo entrar no aplicativo no celular
-  - a empresa pediu meu nis mas nunca tive carteira assinada
   - onde consulto meu numero do pis pelo celular
-  - [Trabalho] Contrato de experiência (prazo e direitos)
   - nao consigo entrar no gov.br pede reconhecimento facial
-  - [Trabalho] Vale-transporte (VT): pedir e descontos
 Formulações que precisaram ser reescritas (ideias de palavras-chave):
   - baixei o app do governo mas minha conta ta bronze como muda pra prata
 
