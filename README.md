@@ -10,7 +10,7 @@ Ele responde só com o que está na base de conhecimento (`data/base_conheciment
 
 | Nome | RM |
 |------|----|
-| Diego de Oliveira Brandão | [569773 |
+| Diego de Oliveira Brandão | 569773 |
 | Cristhian Henrique Clementino | 574117 |
 
 ## Público e problema
