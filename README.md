@@ -1,4 +1,4 @@
-# Citizen Assist AI
+# StartCarreira
 
 Assistente de terminal, feito em Python, que orienta **jovens no primeiro emprego** sobre documentos e direitos básicos: Carteira de Trabalho Digital, CPF, título de eleitor, PIS/NIS, FGTS, vale-transporte, holerite, contrato de experiência, pedido de demissão, conta-salário, alistamento militar e outros.
 
