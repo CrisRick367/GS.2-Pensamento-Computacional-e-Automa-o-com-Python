@@ -163,6 +163,4 @@ Formulações que precisaram ser reescritas (ideias de palavras-chave):
 - A base não cobre regras específicas para menores de 18 anos na abertura de conta bancária.
 - Este assistente **não é um canal oficial** e não substitui o atendimento dos órgãos públicos.
 
-## Vídeo técnico
-
-[COLAR O LINK DO YOUTUBE (não listado)]
+## [Vídeo técnico](https://www.youtube.com/watch?v=MrnmDt0PXPY)
